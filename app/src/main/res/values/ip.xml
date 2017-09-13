@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ipMain">https://api.themoviedb.org/3/discover/movie?api_key=</string>
+    <string name="ipDetails">https://api.themoviedb.org/3/movie/211672?api_key=</string>
+    <string name="apiKey">626d05abf324b3be1c089c695497d49c</string>
+</resources>

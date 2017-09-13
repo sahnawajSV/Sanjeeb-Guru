@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/0a8cfa6907ca6b6f8959d1a37e66069180462fbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d00d2774628200e8a224499db55628ec8b41181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b051c78fea6011889e955ecfe5ef043a764cf09f">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7ffc8c507759b7458f8d3b7f12980f7b2a29fec3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/ed289fc656ad65abee97ea2f176c097b4d9a9594/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_485019abff5e1dd07ffe70f74a2638241dcabeb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/88e62f66031cd1605e26effe945ffe4436c051e8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee625e0af69d47314253f0aa9edd3e8254a21103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/4f9542c3f5a34e20a3625d63378f6dc2a56f65a1/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44405538c9972c7b9a7f14da25e84bb403f9824d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/f3da619cbeb02b39df10fa4871ff94e42000e54d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9c5064e62ab7f533c05eb6af7b39ffa029435fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/f3da619cbeb02b39df10fa4871ff94e42000e54d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0f1105ad7bda75f2020d484aa820d37238b1cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/0a8cfa6907ca6b6f8959d1a37e66069180462fbe/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4febeec9a42f429b97ac594edba3b0145d361da5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/7e33785af4e03b3ac6991b104bfa15eb784fb5db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed95963d556eb6d8854831c1f3b559d9ade1817e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/4c82de06c451c388e8306dac63eeed532562374e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c536b5729d868bcd777b06440ada278d9b25da7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_5ca6d4bf49a498e06cbf0b1fe1649555a958c1fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/4889c066cd052215f506370219fd3dd8dc87d1e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07aa390a025ec9faa9550cc130c7a27830fe4577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/16b3e414d7ced037c2d91503bd516183f7acf63a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3d042c7421d2f3af98c2a22db8b1f42421078bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/4f9542c3f5a34e20a3625d63378f6dc2a56f65a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b8d9166d160a7ea406f6fba437f862ac7e18524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/7a319b0cf4e31ad1db2c1e0b9ea8c97e8fdb68bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21d7d145a3675afa95282943b66e3804585bb5d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57c0cbad7e3b39fb3310a59ef459f3c0a1b5c0b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/4889c066cd052215f506370219fd3dd8dc87d1e8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6af280297f8d0b2b2831dbbd19357538e9392087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/88e62f66031cd1605e26effe945ffe4436c051e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c19fb2f682ce74618d83999b624cd3248a995372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemac/.android/build-cache/a126a23d6ce481697a554233db2d6bc8eb5b7e0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/applemac/AndroidStudioProjects/MovieApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e48719783b7f4035733042dd7ae35922602f8393/classes.dex" />
+    </item>
+
+</items>
